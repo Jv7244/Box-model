@@ -1,0 +1,22 @@
+.margin{
+	margin: 180px 200px 150px 200px;
+	padding: 10px 20px 25px 20px;
+    background-color: rgba(0,200,180,0.7);
+	border: 1px dashed black;
+}
+.border{
+	margin: 10px;
+	padding: 10px 25px 15px 25px;
+    background-color: green;
+}
+.padding{
+    background-color: rgba(0,200,180,0.5);
+	margin: 10px 15px 20px 15px;
+	padding: 10px 25px 25px 25px;
+}
+.conteudo{
+	margin: 10px;
+	padding: 25px;
+    background-color: rgba(0,200,180,0.9);
+
+}
